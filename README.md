@@ -1,6 +1,11 @@
 # vendingmachine
 
-A new Flutter project.
+Our Team make IOT Project Vending machine. We use Flutter for the interface for button picking the snack. For IOT we use NodeMcu 8266.
+
+## Our Team
+- [RaveNewt](https://github.com/RaveNewt)
+- [SytheManic](https://github.com/Sythe007)
+- [Clise](https://github.com/CliseAI)
 
 ## Getting Started
 
