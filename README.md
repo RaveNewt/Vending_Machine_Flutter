@@ -8,7 +8,7 @@ Our Team make IOT Project Vending machine. We use Flutter for the interface for 
 - [Clise](https://github.com/CliseAI)
 
 ## Video
-[Youtube](https://youtu.be/jMmiiLZqM_Y)
+[Link](https://youtu.be/jMmiiLZqM_Y)
 
 ## Getting Started
 
