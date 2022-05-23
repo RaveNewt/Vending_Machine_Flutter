@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "354415314442",
+    "firebase_url": "https://iot-vending-default-rtdb.firebaseio.com",
+    "project_id": "iot-vending",
+    "storage_bucket": "iot-vending.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354415314442:android:833966cac32c212ebe01f3",
+        "android_client_info": {
+          "package_name": "com.example.vendingmachine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354415314442-cg5i8nk7tb38kc0d0afp6q5baespageo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaK7PfWTdTK-D0kD104sAiGy6EGOU5GL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354415314442-cg5i8nk7tb38kc0d0afp6q5baespageo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
